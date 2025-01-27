@@ -1,5 +1,7 @@
 # Awesome AI
 
+ARC-AGI test
+
 ## Workflow Frameworks
 
 ### [LangFlow](https://www.langflow.org/)
