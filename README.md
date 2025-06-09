@@ -1,6 +1,8 @@
 # Awesome AI
 
-ARC-AGI test
+## Tests and Bechmarks
+
+### [https://arcprize.org/arc-agi](ARC-AGI test)
 
 ## Workflow Frameworks
 
