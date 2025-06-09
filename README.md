@@ -26,7 +26,7 @@ An AI-driven coding assistant capable of planning, writing, testing, debugging, 
 
 A standalone AI‑augmented code editor, originally forked from Visual Studio Code, compatible with Windows, macOS, and Linux
 
-### [WindSurf - (https://windsurf.com/)
+### [WindSurf - AI Editor](https://windsurf.com/)
 
 A standalone IDE, forked from VS Code, available on macOS, Windows, and Linux 
 
