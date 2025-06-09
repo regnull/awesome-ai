@@ -211,6 +211,10 @@ A framework for orchestrating role-playing, autonomous AI agents to work togethe
 
 A framework that enables development of LLM applications using multiple agents that can converse with each other to solve tasks.
 
+### [LangGraph](https://github.com/langchain-ai/langgraph)
+
+A library for building stateful, multi-agent applications with LLMs, built on top of LangChain.
+
 ## Audio & Speech Generation
 
 ### [ElevenLabs](https://elevenlabs.io/)
