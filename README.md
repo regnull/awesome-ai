@@ -34,3 +34,11 @@ Powered by Cascade, an AI “agent” that deeply understands your project, sugg
 
 Supports natural-language actions in-editor (e.g., ⌘+I) for inline edits, chat-style interactions, code generation, and command-line operations 
 datacamp.com
+
+## Image/Video
+
+### [ComfyUI visual AI engine](https://github.com/comfyanonymous/ComfyUI)
+
+ComfyUI lets you design and execute advanced stable diffusion pipelines using a graph/nodes/flowchart based interface. Available on Windows, Linux, and macOS.
+
+
