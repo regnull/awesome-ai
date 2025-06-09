@@ -66,6 +66,28 @@ A family of multimodal models developed by Google AI.
 
 An AI-powered conversational search engine.
 
+## Foundation Models
+
+### [OpenAI GPT Series](https://openai.com/gpt-4)
+
+A family of powerful and versatile large language models that excel at a wide range of natural language and coding tasks.
+
+### [Meta Llama Series](https://llama.meta.com/)
+
+A collection of open-source large language models from Meta, designed to be efficient and accessible for research and development.
+
+### [Google Gemini Series](https://deepmind.google/technologies/gemini/)
+
+A family of multimodal models from Google that can understand and operate across text, code, images, and video.
+
+### [Anthropic Claude Series](https://www.anthropic.com/claude)
+
+A family of large language models focused on being helpful, harmless, and honest.
+
+### [Mistral AI Models](https://mistral.ai/)
+
+A series of powerful and efficient open-source and commercial language models, known for their strong performance and adaptability.
+
 ## Code Editors / Software Engineering Agents
 
 ### [Devin AI - Autonomous Software Engineer](https://devin.ai/)
@@ -92,6 +114,10 @@ An AI pair programmer from GitHub that offers autocomplete-style suggestions as 
 ### [Tabnine](https://www.tabnine.com/)
 
 AI code completion assistant that makes you a faster developer.
+
+### [OpenAI Codex](https://chatgpt.com/codex)
+
+A specialized GPT for coding, data analysis, and more, available within ChatGPT. It represents the evolution of the original Codex models, now powered by OpenAI's latest generation of AI.
 
 ## Image and Video
 
