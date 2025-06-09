@@ -2,7 +2,7 @@
 
 ## Tests and Bechmarks
 
-### [https://arcprize.org/arc-agi](ARC-AGI test)
+### [ARC-AGI test](https://arcprize.org/arc-agi)
 
 ## Workflow Frameworks
 
