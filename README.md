@@ -275,6 +275,15 @@ An open-source observability platform for LLMs that helps you monitor costs, lat
 
 ## AI Cloud Platforms
 
+### [Hugging Face](https://huggingface.co/)
+
+A comprehensive AI platform offering:
+- Inference API for running thousands of open-source models
+- AutoTrain for no-code model training and fine-tuning
+- Spaces for hosting ML demo apps
+- Enterprise solutions for model deployment and management
+- Integration with major cloud providers
+
 ### [Replicate](https://replicate.com/)
 
 A cloud platform that lets you run and deploy AI models with a simple API. Key features include:
@@ -313,6 +322,18 @@ An open-source tool that packages machine learning models in production-ready co
 - Queue worker support for long-running tasks
 - Cloud storage integration with S3 and GCS
 - Production-ready containers with best practices built-in
+
+## Model Hubs & Development Platforms
+
+### [Hugging Face](https://huggingface.co/)
+
+The largest hub for machine learning models, datasets, and ML development tools. Key features include:
+- 300k+ pre-trained models and 50k+ datasets
+- Transformers library for state-of-the-art ML models
+- Extensive documentation and learning resources
+- Active community and model sharing ecosystem
+- Tools for model training, evaluation, and deployment
+- Integration with popular ML frameworks (PyTorch, TensorFlow, JAX)
 
 ## Misc
 
