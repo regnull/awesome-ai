@@ -347,64 +347,49 @@ The largest hub for machine learning models, datasets, and ML development tools.
 ## Core Python Libraries for AI Development
 
 ### NumPy
-
-The foundational package for numerical computing in Python, providing support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions.
+### [NumPy](https://numpy.org/)
 
 ### Pandas
-
-A powerful data manipulation and analysis library offering data structures like DataFrame for handling structured data.
+### [Pandas](https://pandas.pydata.org/)
 
 ### SciPy
-
-An ecosystem of open-source software for mathematics, science, and engineering that builds on NumPy with modules for optimization, integration, interpolation, and more.
+### [SciPy](https://scipy.org/)
 
 ### scikit-learn
-
-A comprehensive library for machine learning that provides simple and efficient tools for data mining and data analysis, including classification, regression, clustering, and preprocessing.
+### [scikit-learn](https://scikit-learn.org/)
 
 ### PyTorch
-
-An open-source deep learning framework known for its dynamic computation graph and ease of use, widely adopted in both research and production.
+### [PyTorch](https://pytorch.org/)
 
 ### TensorFlow
-
-A scalable machine learning framework developed by Google, featuring static computation graphs and widespread ecosystem support, including model deployment tools.
+### [TensorFlow](https://www.tensorflow.org/)
 
 ### Keras
-
-A high-level neural networks API, running on top of TensorFlow, that enables fast experimentation with deep learning models.
+### [Keras](https://keras.io/)
 
 ### JAX
-
-A high-performance numerical computing library that brings together the NumPy API, automatic differentiation, and GPU/TPU acceleration.
+### [JAX](https://github.com/google/jax)
 
 ### transformers (Hugging Face)
-
-A library providing state-of-the-art pre-trained models for natural language processing, vision, and audio tasks, with a unified API.
+### [transformers (Hugging Face)](https://huggingface.co/docs/transformers)
 
 ### PyTorch Lightning
-
-A lightweight wrapper for PyTorch that simplifies the research-to-production pipeline by structuring code and automating training loops.
+### [PyTorch Lightning](https://lightning.ai/)
 
 ### XGBoost
-
-An optimized gradient boosting library designed to be highly efficient, flexible, and portable, commonly used for tabular data tasks.
+### [XGBoost](https://xgboost.ai/)
 
 ### LightGBM
-
-A gradient boosting framework that uses tree-based learning algorithms, optimized for speed and performance on large datasets.
+### [LightGBM](https://lightgbm.readthedocs.io/)
 
 ### spaCy
-
-An industrial-strength natural language processing library featuring pre-trained models, tokenization, and advanced NLP pipelines.
+### [spaCy](https://spacy.io/)
 
 ### diffusers (Hugging Face)
-
-A library providing state-of-the-art diffusion models for image, audio, and text generation, with modular pipelines for training and inference.
+### [diffusers (Hugging Face)](https://huggingface.co/docs/diffusers)
 
 ### OpenCV
-
-An open-source computer vision and machine learning software library that provides a common infrastructure for CV applications.
+### [OpenCV](https://opencv.org/)
 
 ## Misc
 
