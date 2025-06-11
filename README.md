@@ -294,6 +294,15 @@ A cloud platform that lets you run and deploy AI models with a simple API. Key f
 - Built-in monitoring and logging
 - Support for CPU and various GPU types (T4, L40S, A100)
 
+### [Fireworks AI](https://fireworks.ai/)
+
+A production-grade platform offering low-latency, cost-effective inference and fine-tuning for leading open-source foundation models. Key features include:
+- OpenAI-compatible REST and streaming APIs
+- Access to high-performance models like Mistral-7B, Mixtral-8x7B, and custom fine-tunes
+- Sub-second latency and high throughput with GPU autoscaling
+- Enterprise-grade security, private model hosting, and SOC 2 compliance
+- Pay-as-you-go pricing with cost-optimized token billing
+
 ### [Google Vertex AI](https://cloud.google.com/vertex-ai)
 
 A unified AI platform for building, deploying, and scaling ML models, with access to Google's foundation models like Gemini.
