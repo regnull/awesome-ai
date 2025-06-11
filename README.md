@@ -346,47 +346,65 @@ The largest hub for machine learning models, datasets, and ML development tools.
 
 ## Core Python Libraries for AI Development
 
-### NumPy
 ### [NumPy](https://numpy.org/)
 
-### Pandas
+The foundational package for numerical computing in Python, providing support for multi-dimensional arrays, matrices, and mathematical functions.
+
 ### [Pandas](https://pandas.pydata.org/)
 
-### SciPy
+Powerful data manipulation and analysis library with DataFrame and Series objects for handling structured data.
+
 ### [SciPy](https://scipy.org/)
 
-### scikit-learn
+Scientific computing ecosystem built on NumPy, adding algorithms for optimization, integration, statistics, and signal processing.
+
 ### [scikit-learn](https://scikit-learn.org/)
 
-### PyTorch
+User-friendly machine-learning library offering tools for classification, regression, clustering, dimensionality reduction, and preprocessing.
+
 ### [PyTorch](https://pytorch.org/)
 
-### TensorFlow
+Popular deep-learning framework featuring dynamic computation graphs, eager execution, and strong GPU acceleration.
+
 ### [TensorFlow](https://www.tensorflow.org/)
 
-### Keras
+End-to-end machine-learning platform with static graphs, TensorBoard visualizations, and scalable deployment options.
+
 ### [Keras](https://keras.io/)
 
-### JAX
+High-level neural-network API that runs on top of TensorFlow and simplifies building, training, and experimenting with deep-learning models.
+
 ### [JAX](https://github.com/google/jax)
+
+High-performance numerical computing library combining NumPy-style APIs with automatic differentiation and GPU/TPU acceleration.
 
 ### [transformers (Hugging Face)](https://huggingface.co/docs/transformers)
 
-### PyTorch Lightning
+Extensive collection of pre-trained transformer models for NLP, vision, and audio tasks with a unified, easy-to-use API.
+
 ### [PyTorch Lightning](https://lightning.ai/)
 
-### XGBoost
+Lightweight wrapper around PyTorch that abstracts training loops and enables scalable, reproducible research and production.
+
 ### [XGBoost](https://xgboost.ai/)
 
-### LightGBM
+High-performance gradient-boosting library optimized for speed and accuracy on tabular and sparse data.
+
 ### [LightGBM](https://lightgbm.readthedocs.io/)
 
-### spaCy
+Gradient-boosting framework from Microsoft that uses histogram-based algorithms for fast, memory-efficient training on large datasets.
+
 ### [spaCy](https://spacy.io/)
+
+Industrial-strength natural-language-processing library with pre-trained pipelines, efficient tokenization, and extensible components.
 
 ### [diffusers (Hugging Face)](https://huggingface.co/docs/diffusers)
 
+Modular library for training and inference with state-of-the-art diffusion models for image, audio, and text generation.
+
 ### [OpenCV](https://opencv.org/)
+
+Widely used computer-vision library offering algorithms for image and video processing, feature detection, and real-time applications.
 
 ## Misc
 
