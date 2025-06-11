@@ -275,6 +275,16 @@ An open-source observability platform for LLMs that helps you monitor costs, lat
 
 ## AI Cloud Platforms
 
+### [Replicate](https://replicate.com/)
+
+A cloud platform that lets you run and deploy AI models with a simple API. Key features include:
+- Run thousands of open-source models with one line of code
+- Fine-tune models with your own data
+- Deploy custom models using Cog (their open-source containerization tool)
+- Automatic scaling with pay-per-use pricing
+- Built-in monitoring and logging
+- Support for CPU and various GPU types (T4, L40S, A100)
+
 ### [Google Vertex AI](https://cloud.google.com/vertex-ai)
 
 A unified AI platform for building, deploying, and scaling ML models, with access to Google's foundation models like Gemini.
@@ -290,6 +300,19 @@ A fully managed service that brings together a broad set of tools to build, trai
 ### [Azure Machine Learning](https://azure.microsoft.com/en-us/products/machine-learning)
 
 An enterprise-grade service for the end-to-end machine learning lifecycle, enabling developers and data scientists to build, deploy, and manage high-quality models.
+
+## ML Model Deployment Tools
+
+### [Cog](https://cog.run/)
+
+An open-source tool that packages machine learning models in production-ready containers. It simplifies the process of containerizing ML models by handling CUDA compatibility, dependency management, and API generation. Key features include:
+
+- Simplified Docker containerization without writing Dockerfiles
+- Automatic CUDA/cuDNN/PyTorch compatibility management
+- Built-in HTTP prediction server with OpenAPI schema
+- Queue worker support for long-running tasks
+- Cloud storage integration with S3 and GCS
+- Production-ready containers with best practices built-in
 
 ## Misc
 
