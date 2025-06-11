@@ -335,6 +335,68 @@ The largest hub for machine learning models, datasets, and ML development tools.
 - Tools for model training, evaluation, and deployment
 - Integration with popular ML frameworks (PyTorch, TensorFlow, JAX)
 
+## Core Python Libraries for AI Development
+
+### NumPy
+
+The foundational package for numerical computing in Python, providing support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions.
+
+### Pandas
+
+A powerful data manipulation and analysis library offering data structures like DataFrame for handling structured data.
+
+### SciPy
+
+An ecosystem of open-source software for mathematics, science, and engineering that builds on NumPy with modules for optimization, integration, interpolation, and more.
+
+### scikit-learn
+
+A comprehensive library for machine learning that provides simple and efficient tools for data mining and data analysis, including classification, regression, clustering, and preprocessing.
+
+### PyTorch
+
+An open-source deep learning framework known for its dynamic computation graph and ease of use, widely adopted in both research and production.
+
+### TensorFlow
+
+A scalable machine learning framework developed by Google, featuring static computation graphs and widespread ecosystem support, including model deployment tools.
+
+### Keras
+
+A high-level neural networks API, running on top of TensorFlow, that enables fast experimentation with deep learning models.
+
+### JAX
+
+A high-performance numerical computing library that brings together the NumPy API, automatic differentiation, and GPU/TPU acceleration.
+
+### transformers (Hugging Face)
+
+A library providing state-of-the-art pre-trained models for natural language processing, vision, and audio tasks, with a unified API.
+
+### PyTorch Lightning
+
+A lightweight wrapper for PyTorch that simplifies the research-to-production pipeline by structuring code and automating training loops.
+
+### XGBoost
+
+An optimized gradient boosting library designed to be highly efficient, flexible, and portable, commonly used for tabular data tasks.
+
+### LightGBM
+
+A gradient boosting framework that uses tree-based learning algorithms, optimized for speed and performance on large datasets.
+
+### spaCy
+
+An industrial-strength natural language processing library featuring pre-trained models, tokenization, and advanced NLP pipelines.
+
+### diffusers (Hugging Face)
+
+A library providing state-of-the-art diffusion models for image, audio, and text generation, with modular pipelines for training and inference.
+
+### OpenCV
+
+An open-source computer vision and machine learning software library that provides a common infrastructure for CV applications.
+
 ## Misc
 
 ### [Model Context Protocol (MCP)](https://www.anthropic.com/news/model-context-protocol)
