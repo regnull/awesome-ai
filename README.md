@@ -370,7 +370,6 @@ The largest hub for machine learning models, datasets, and ML development tools.
 ### JAX
 ### [JAX](https://github.com/google/jax)
 
-### transformers (Hugging Face)
 ### [transformers (Hugging Face)](https://huggingface.co/docs/transformers)
 
 ### PyTorch Lightning
@@ -385,10 +384,8 @@ The largest hub for machine learning models, datasets, and ML development tools.
 ### spaCy
 ### [spaCy](https://spacy.io/)
 
-### diffusers (Hugging Face)
 ### [diffusers (Hugging Face)](https://huggingface.co/docs/diffusers)
 
-### OpenCV
 ### [OpenCV](https://opencv.org/)
 
 ## Misc
