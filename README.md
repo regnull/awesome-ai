@@ -48,6 +48,14 @@ A data framework for building LLM applications over external data.
 
 An open-source framework for building, testing, and deploying AI-powered applications and workflows.
 
+### [Rivet](https://rivet.ironcladapp.com/)
+
+An open-source visual programming environment for building, debugging, and collaborating on complex LLM prompt graphs and AI agent workflows. Rivet enables teams to design, iterate, and deploy AI agents visually, with YAML-based graphs for easy versioning and collaboration. [Learn more](https://rivet.ironcladapp.com/).
+
+### [Vellum](https://www.vellum.ai/)
+
+An enterprise-grade platform for building, testing, and deploying AI solutions. Vellum provides a purpose-built GUI and SDK for AI development, enabling teams to define, evaluate, and observe AI workflows with test-driven development practices. [Learn more](https://www.vellum.ai/).
+
 ## AI Chatbots
 
 ### [ChatGPT](https://chat.openai.com/)
