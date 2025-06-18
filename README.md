@@ -213,6 +213,14 @@ An open-source, AI-native vector database that helps developers create intuitive
 
 An open-source vector database built for developing and maintaining AI applications.
 
+### [MongoDB Atlas Vector Search](https://www.mongodb.com/lp/products/platform/atlas-vector-search-artificial-intelligence)
+
+MongoDB Atlas Vector Search securely unifies operational and vector data, enabling retrieval-augmented generation (RAG) to access the most relevant data and provide accurate insights. It combines vector search with services like text search and stream processing in a single data platform, making it easy to build performant AI applications. [Learn more](https://www.mongodb.com/lp/products/platform/atlas-vector-search-artificial-intelligence).
+
+### [PostgreSQL pgvector](https://github.com/pgvector/pgvector)
+
+PostgreSQL pgvector is an extension that enables vector similarity search directly within PostgreSQL. It allows you to store and query vector embeddings efficiently, making it easy to integrate vector search capabilities into your existing PostgreSQL database. [Learn more](https://github.com/pgvector/pgvector).
+
 ## LLM Evaluation & Observability
 
 ### [Langfuse](https://langfuse.com/)
