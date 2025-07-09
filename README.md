@@ -56,6 +56,10 @@ An open-source visual programming environment for building, debugging, and colla
 
 An enterprise-grade platform for building, testing, and deploying AI solutions. Vellum provides a purpose-built GUI and SDK for AI development, enabling teams to define, evaluate, and observe AI workflows with test-driven development practices. [Learn more](https://www.vellum.ai/).
 
+### [BAML](https://github.com/boundaryml/baml)
+
+A configuration file format for writing typed LLM functions using Jinja templates. BAML turns prompt engineering into schema engineering, providing type-safe structured outputs, streaming, retries, and wide model support. It generates client libraries for Python, TypeScript, Ruby, and other languages. [Learn more](https://github.com/boundaryml/baml).
+
 ## AI Chatbots
 
 ### [ChatGPT](https://chat.openai.com/)
@@ -421,6 +425,28 @@ Modular library for training and inference with state-of-the-art diffusion model
 ### [OpenCV](https://opencv.org/)
 
 Widely used computer-vision library offering algorithms for image and video processing, feature detection, and real-time applications.
+
+## AI News & Newsletters
+
+### [AI Breakfast](https://aibreakfast.beehiiv.com/)
+
+A curated weekly newsletter analyzing the latest AI projects, products, and news. AI Breakfast provides concise coverage of AI developments, from new model releases to industry trends, with a focus on practical applications and business implications. [Learn more](https://aibreakfast.beehiiv.com/).
+
+### [Last Week in AI](https://lastweekin.ai/)
+
+A comprehensive weekly newsletter and podcast that summarizes and discusses the most important AI news and research developments. Last Week in AI provides in-depth analysis of papers, policy changes, and industry developments, making complex AI topics accessible to both technical and general audiences. [Learn more](https://lastweekin.ai/).
+
+### [Latent Space](https://www.latent.space/)
+
+A newsletter and podcast focused on AI engineering, research, and industry insights. Latent Space provides in-depth analysis of AI developments, interviews with leading researchers, and practical guidance for AI practitioners and engineers. [Learn more](https://www.latent.space/).
+
+### [The Rundown AI](https://www.therundown.ai/)
+
+A daily AI newsletter that delivers the most important AI news, tools, and insights directly to your inbox. The Rundown AI focuses on practical AI applications, new tool releases, and industry developments that matter to business professionals and AI enthusiasts. [Learn more](https://www.therundown.ai/).
+
+### [VentureBeat AI](https://venturebeat.com/ai/)
+
+A leading technology publication's dedicated AI section covering enterprise AI adoption, startup funding, product launches, and industry analysis. VentureBeat AI provides comprehensive coverage of artificial intelligence from a business and technology perspective. [Learn more](https://venturebeat.com/ai/).
 
 ## Misc
 
