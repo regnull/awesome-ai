@@ -78,6 +78,26 @@ A family of multimodal models and a consumer assistant from Google.
 
 An AI-powered conversational search engine.
 
+### [Grok](https://grok.com/)
+
+xAI's consumer assistant for chat, search, reasoning, image/video generation, and voice.
+
+### [DeepSeek Chat](https://chat.deepseek.com/)
+
+Web chat interface for DeepSeek's open-weight and hosted models.
+
+### [Microsoft Copilot](https://copilot.microsoft.com/)
+
+Microsoft's consumer and productivity assistant, integrated across Bing, Windows, and Microsoft 365.
+
+### [Poe](https://poe.com/)
+
+A multi-model chat app from Quora where you can talk to many frontier and open models in one place.
+
+### [Character.AI](https://character.ai/)
+
+A consumer chatbot platform for creating and chatting with character-style AI personas.
+
 ## Foundation Models
 
 ### [OpenAI GPT Series](https://developers.openai.com/api/docs/models)
@@ -99,6 +119,34 @@ A family of large language models focused on being helpful, harmless, and honest
 ### [Mistral AI Models](https://mistral.ai/)
 
 A series of powerful and efficient open-weight and commercial language models, known for their strong performance and adaptability.
+
+### [DeepSeek](https://www.deepseek.com/)
+
+A family of high-performing open-weight (and hosted) models from DeepSeek, widely used for reasoning and coding.
+
+### [Qwen (Alibaba)](https://qwen.ai/)
+
+Alibaba's Qwen model family — open-weight and commercial models spanning text, vision, and coding. Chat at [chat.qwen.ai](https://chat.qwen.ai/).
+
+### [xAI Grok Models](https://docs.x.ai/developers/models)
+
+xAI's Grok model family (including Grok 4.x) for reasoning, coding, and multimodal generation, available via the xAI API.
+
+### [Google Gemma](https://deepmind.google/models/gemma/)
+
+Google DeepMind's open-weight Gemma models, designed for efficient on-device and self-hosted use.
+
+### [Microsoft Phi](https://azure.microsoft.com/en-us/products/phi)
+
+Microsoft's small, capable Phi models for on-device and cost-efficient reasoning, available on Azure and as open weights.
+
+### [Cohere Command](https://cohere.com/command)
+
+Cohere's Command model family for enterprise search, RAG, and agent workloads.
+
+### [Amazon Nova](https://aws.amazon.com/nova/)
+
+Amazon's Nova foundation models (text, multimodal, and related variants) available through Amazon Bedrock.
 
 ## Code Editors / Software Engineering Agents
 
@@ -126,6 +174,42 @@ AI code completion assistant that makes you a faster developer.
 
 OpenAI's coding agent, available in ChatGPT, for writing, reviewing, and iterating on software from natural-language tasks.
 
+### [Claude Code](https://claude.com/product/claude-code)
+
+Anthropic's agentic coding tool (CLI and IDE integrations) that reads a repo, edits files, runs commands, and iterates on tasks.
+
+### [Aider](https://aider.chat/)
+
+A terminal-based AI pair programmer that maps your git repo and applies edits as commits.
+
+### [Continue](https://continue.dev/)
+
+An open-source coding assistant that plugs into VS Code and JetBrains, with local or cloud models.
+
+### [Cline](https://cline.bot/)
+
+An autonomous coding agent for VS Code that can edit files, run terminal commands, and use the browser with your approval.
+
+### [Roo Code](https://github.com/RooCodeInc/Roo-Code)
+
+An open-source VS Code coding agent (a popular Cline fork) for multi-file edits and agentic workflows in the editor.
+
+### [OpenHands](https://www.openhands.dev/)
+
+An open-source software engineering agent (formerly OpenDevin) that can write code, run commands, and browse in a sandboxed environment.
+
+### [SWE-agent](https://swe-agent.com/)
+
+An academic/open-source agent from Princeton NLP that uses language models to resolve real GitHub issues.
+
+### [Amp](https://ampcode.com/)
+
+Sourcegraph's agentic coding tool (CLI and editor extension) for individuals and teams; the self-serve successor to Cody Free/Pro.
+
+### [Zed](https://zed.dev/)
+
+A high-performance collaborative code editor with built-in AI assistance.
+
 ## Image and Video
 
 ### Image
@@ -146,6 +230,14 @@ OpenAI's current image generation and editing models (GPT Image 2 and related), 
 
 Stability AI's family of image generation models and tools for creating images from text.
 
+### [FLUX (Black Forest Labs)](https://bfl.ai/)
+
+Black Forest Labs' FLUX image (and related video) models, widely used for high-quality text-to-image generation.
+
+### [Ideogram](https://ideogram.ai/)
+
+An image generator known for reliable text rendering inside images.
+
 ### Video
 
 ### [Runway](https://runway.com/)
@@ -155,6 +247,22 @@ A generative media platform for video, image, and audio creation, plus APIs and 
 ### [Pika](https://pika.art/)
 
 An idea-to-video platform that sets your creativity in motion.
+
+### [Kling](https://kling.ai/)
+
+Kuaishou's text-to-video and image-to-video models, available through a consumer web app and APIs.
+
+### [Luma](https://lumalabs.ai/)
+
+Luma's Dream Machine and related models for video and 3D generation from text or images.
+
+### [Veo](https://deepmind.google/models/veo/)
+
+Google DeepMind's Veo video generation models, available through Gemini and Google Cloud.
+
+### [Higgsfield](https://higgsfield.ai/)
+
+A creative studio for AI video and image generation, with cinema-style tools and a catalog of third-party models.
 
 ## Local AI
 
@@ -189,6 +297,34 @@ An ecosystem of open-source, locally-running, privacy-aware chatbots that can ru
 ### [text-generation-webui](https://github.com/oobabooga/textgen)
 
 A Gradio web UI for running large language models, with features like model loading, text generation, and chat.
+
+### [Open WebUI](https://openwebui.com/)
+
+A self-hosted chat UI for local and remote models (Ollama, OpenAI-compatible APIs, and more).
+
+### [MLX](https://github.com/ml-explore/mlx)
+
+Apple's array framework for machine learning on Apple silicon, with an ecosystem for running LLMs locally on Macs.
+
+### [llamafile](https://github.com/mozilla-ai/llamafile)
+
+Mozilla's single-file LLM distribution format: a llama.cpp binary plus weights you can run with no install.
+
+### [Exo](https://github.com/exo-explore/exo)
+
+A project for running large models across a cluster of everyday devices (unified memory over a local network).
+
+### [SGLang](https://github.com/sgl-project/sglang)
+
+A high-performance serving framework for LLMs and VLMs, used in production inference stacks.
+
+### [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
+
+NVIDIA's library for compiling and serving LLMs at high throughput on NVIDIA GPUs.
+
+### [Hugging Face TGI](https://huggingface.co/docs/text-generation-inference/index)
+
+Text Generation Inference — Hugging Face's production server for deploying and serving transformer models.
 
 ## Vector Databases
 
@@ -234,6 +370,30 @@ The developer-first MLOps platform for building better models faster.
 
 Open-source evaluations and tracing for LLM and agent applications. Originally created by TruEra; now maintained by Snowflake.
 
+### [LangSmith](https://www.langchain.com/langsmith)
+
+LangChain's platform for tracing, evaluating, and debugging LLM and agent applications.
+
+### [Braintrust](https://www.braintrust.dev/)
+
+An evaluation and observability platform for LLM apps, with datasets, scorers, and production logging.
+
+### [Phoenix](https://arize.com/docs/phoenix)
+
+Arize Phoenix — open-source tracing and evaluation for LLM applications (also the engine behind parts of Arize's commercial stack).
+
+### [Promptfoo](https://www.promptfoo.dev/)
+
+Open-source prompt testing and red-teaming: write evals as config, compare models, and catch regressions.
+
+### [DeepEval](https://deepeval.com/)
+
+An open-source evaluation framework for LLM apps and agents, with unit-test-style metrics.
+
+### [OpenTelemetry GenAI](https://opentelemetry.io/docs/specs/semconv/gen-ai/)
+
+Semantic conventions for tracing generative AI spans (model calls, tokens, tools) in the OpenTelemetry ecosystem.
+
 ## AI Agent Frameworks
 
 ### [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
@@ -252,7 +412,39 @@ Microsoft's current framework for building multi-agent applications, combining i
 
 A library for building stateful, multi-agent applications with LLMs, with durable state, human-in-the-loop controls, and streaming.
 
-## Audio & Speech Generation
+### [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/)
+
+OpenAI's lightweight, production-oriented framework for agents, tools, handoffs, and guardrails — the successor to the Swarm experiment.
+
+### [Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/)
+
+Microsoft's SDK for composing prompts, tools, and agents in C#, Python, and Java (now overlapping with Microsoft Agent Framework).
+
+### [Haystack](https://haystack.deepset.ai/)
+
+deepset's open-source framework for building production RAG and agent pipelines.
+
+### [PydanticAI](https://pydantic.dev/docs/ai/overview/)
+
+A type-safe Python agent framework from the Pydantic team, with structured outputs and model-agnostic providers.
+
+### [Mastra](https://mastra.ai/)
+
+A TypeScript framework for building AI agents and workflows, with memory, tools, and evals.
+
+### [Agno](https://www.agno.com/)
+
+A Python agent framework and runtime (formerly Phidata) for multi-agent systems with tools, memory, and a private control plane.
+
+### [Browser Use](https://browser-use.com/)
+
+An open-source library that lets agents operate a real browser (click, type, navigate) to complete web tasks.
+
+### [Stagehand](https://www.stagehand.dev/)
+
+A browser-automation framework from Browserbase for AI agents: deterministic Playwright plus natural-language actions.
+
+## Audio & Speech
 
 ### [ElevenLabs](https://elevenlabs.io/)
 
@@ -270,11 +462,53 @@ An AI music generator that creates original songs with vocals and instrumentatio
 
 AI-powered text-to-speech and voice cloning for realistic voiceovers, with a studio and API.
 
+### [Whisper](https://github.com/openai/whisper)
+
+OpenAI's open-source speech-to-text model family, still a default local and research baseline for transcription.
+
+### [OpenAI Realtime](https://developers.openai.com/api/docs/guides/realtime)
+
+OpenAI's low-latency speech-to-speech / realtime API for voice agents (audio in, audio out, with tool use).
+
+### [Cartesia](https://www.cartesia.ai/)
+
+A voice AI platform for ultra-low-latency text-to-speech and realtime voice agents.
+
+### [Deepgram](https://deepgram.com/)
+
+A speech-to-text (and voice AI) API used for realtime transcription and voice agents.
+
+### [AssemblyAI](https://www.assemblyai.com/)
+
+A speech-to-text and audio-intelligence API for transcription, summarization, and media analysis.
+
 ## AI Finance / Investing
 
 ### [Portfolio Genius](https://portfoliogenius.ai/)
 
 AI portfolio management SaaS that syncs holdings from 2,400+ institutions via Plaid, analyzes concentration and diversification, suggests trades, and supports live trading through Alpaca.
+
+### [PortfolioPilot](https://www.portfoliopilot.com/)
+
+AI portfolio analysis and planning from Global Predictions (an RIA): account aggregation, risk/tax insights, and recommendations you review yourself.
+
+## Document AI / RAG Data Pipeline
+
+### [Firecrawl](https://www.firecrawl.dev/)
+
+A web crawling and scraping API that turns sites into clean markdown or structured data for RAG and agents.
+
+### [Unstructured](https://unstructured.io/)
+
+A platform and open-source library for extracting and chunking documents (PDF, HTML, office files) into LLM-ready data.
+
+### [Docling](https://github.com/docling-project/docling)
+
+An open-source document conversion toolkit that parses PDFs and office files into structured representations for RAG.
+
+### [LlamaParse](https://www.llamaindex.ai/llamaparse)
+
+LlamaIndex's document parser for complex PDFs and tables, used as the ingestion step for RAG.
 
 ## Prompt Engineering Tools
 
@@ -326,6 +560,14 @@ A fully managed service that brings together a broad set of tools to build, trai
 ### [Azure Machine Learning](https://azure.microsoft.com/en-us/products/machine-learning)
 
 An enterprise-grade service for the end-to-end machine learning lifecycle, enabling developers and data scientists to build, deploy, and manage high-quality models.
+
+### [Groq](https://groq.com/)
+
+An inference platform known for very low-latency serving of open models on Groq's LPU hardware.
+
+### [Together AI](https://www.together.ai/)
+
+A cloud platform for running and fine-tuning open models with an OpenAI-compatible API.
 
 ## ML Model Deployment Tools
 
@@ -439,6 +681,14 @@ A daily AI newsletter that delivers the most important AI news, tools, and insig
 ### [VentureBeat AI](https://venturebeat.com/ai/)
 
 A leading technology publication's dedicated AI section covering enterprise AI adoption, startup funding, product launches, and industry analysis. VentureBeat AI provides comprehensive coverage of artificial intelligence from a business and technology perspective. [Learn more](https://venturebeat.com/ai/).
+
+### [The Batch](https://www.deeplearning.ai/the-batch/)
+
+Andrew Ng / DeepLearning.AI's weekly newsletter on AI research, industry, and practical applications.
+
+### [Import AI](https://importai.substack.com/)
+
+Jack Clark's long-running weekly newsletter covering AI research, policy, and capability developments.
 
 ## Misc
 
